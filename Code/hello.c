@@ -6,3 +6,6 @@ int main(){
 	printf(""Welocme");
 	return 0;
 }
+int dd{
+}
+	       
